@@ -1,0 +1,17 @@
+[project]
+name = "daopredict"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "SunWoo",email = "sunwoo3856@naver.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "apache-airflow (==2.9.2)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

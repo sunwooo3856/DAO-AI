@@ -1,0 +1,150 @@
+{
+  "data": {
+    "chains": [
+      {
+        "id": "eip155:1",
+        "layer1Id": null,
+        "name": "Ethereum Mainnet",
+        "mediumName": "Ethereum",
+        "shortName": "eth",
+        "blockTime": 12,
+        "isTestnet": false,
+        "nativeCurrency": {
+          "name": "Ether",
+          "symbol": "ETH",
+          "decimals": 18
+        },
+        "chain": "ETH",
+        "useLayer1VotingPeriod": false
+      },
+      {
+        "id": "eip155:137",
+        "layer1Id": null,
+        "name": "Polygon Mainnet",
+        "mediumName": "Polygon",
+        "shortName": "MATIC",
+        "blockTime": 3,
+        "isTestnet": false,
+        "nativeCurrency": {
+          "name": "MATIC",
+          "symbol": "MATIC",
+          "decimals": 18
+        },
+        "chain": "Matic(Polygon)",
+        "useLayer1VotingPeriod": false
+      },
+      {
+        "id": "eip155:56",
+        "layer1Id": null,
+        "name": "BNB Smart Chain Mainnet",
+        "mediumName": "BNB Smart Chain",
+        "shortName": "bnb",
+        "blockTime": 3,
+        "isTestnet": false,
+        "nativeCurrency": {
+          "name": "Binance Chain Native Token",
+          "symbol": "BNB",
+          "decimals": 18
+        },
+        "chain": "BSC",
+        "useLayer1VotingPeriod": false
+      },
+      {
+        "id": "eip155:43114",
+        "layer1Id": null,
+        "name": "Avalanche C-Chain",
+        "mediumName": "Avalanche",
+        "shortName": "avax",
+        "blockTime": 2,
+        "isTestnet": false,
+        "nativeCurrency": {
+          "name": "Avalanche",
+          "symbol": "AVAX",
+          "decimals": 18
+        },
+        "chain": "AVAX",
+        "useLayer1VotingPeriod": false
+      },
+      {
+        "id": "eip155:10",
+        "layer1Id": null,
+        "name": "Optimism",
+        "mediumName": "Optimism",
+        "shortName": "oeth",
+        "blockTime": 2,
+        "isTestnet": false,
+        "nativeCurrency": {
+          "name": "Ether",
+          "symbol": "ETH",
+          "decimals": 18
+        },
+        "chain": "ETH",
+        "useLayer1VotingPeriod": false
+      },
+      {
+        "id": "eip155:42161",
+        "layer1Id": "eip155:1",
+        "name": "Arbitrum One",
+        "mediumName": "Arbitrum",
+        "shortName": "arb1",
+        "blockTime": 2,
+        "isTestnet": false,
+        "nativeCurrency": {
+          "name": "Ether",
+          "symbol": "ETH",
+          "decimals": 18
+        },
+        "chain": "ETH",
+        "useLayer1VotingPeriod": true
+      },
+      {
+        "id": "eip155:81457",
+        "layer1Id": null,
+        "name": "Blast Mainnet",
+        "mediumName": "Blast",
+        "shortName": "blast",
+        "blockTime": 0.25,
+        "isTestnet": false,
+        "nativeCurrency": {
+          "name": "Ether",
+          "symbol": "ETH",
+          "decimals": 18
+        },
+        "chain": "ETH",
+        "useLayer1VotingPeriod": false
+      },
+      {
+        "id": "eip155:324",
+        "layer1Id": null,
+        "name": "ZKsync Era Mainnet",
+        "mediumName": "ZKsync Era",
+        "shortName": "ZKsync",
+        "blockTime": 1,
+        "isTestnet": false,
+        "nativeCurrency": {
+          "name": "Ether",
+          "symbol": "ETH",
+          "decimals": 18
+        },
+        "chain": "ETH",
+        "useLayer1VotingPeriod": false
+      },
+      {
+        "id": "eip155:8453",
+        "layer1Id": null,
+        "name": "Base",
+        "mediumName": "Base",
+        "shortName": "base",
+        "blockTime": 2,
+        "isTestnet": false,
+        "nativeCurrency": {
+          "name": "Ether",
+          "symbol": "ETH",
+          "decimals": 18
+        },
+        "chain": "ETH",
+        "useLayer1VotingPeriod": false
+      }
+    ]
+  }
+}
